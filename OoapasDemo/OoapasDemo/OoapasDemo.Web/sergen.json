@@ -1,0 +1,10 @@
+﻿{
+  "RootNamespace": "OoapasDemo",
+  "ServerTypings": {
+    "Assemblies": [],
+    "LocalTexts": true
+  },
+  "Connections": [],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": []
+}
